@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hamed</h1>
 <h3 align="center">Junior Data Scientist | Python | Machine Learning | Deep Learning | Data Analysis</h3>
 
-- 🌱 I’m currently learning **PyTorch and TensorFlow**
+- 🌱 Aspiring Data Scientist and passionate learner with a strong foundation in Python (including Django) and web development fundamentals (HTML, CSS, Bootstrap). I love learning new things and learning quickly. Currently honing my skills in Machine Learning and Deep Learning through courses and Kaggle projects, with the goal of becoming an AI master.
+  
+- ✨ Seeking an internship or junior data scientist position to apply my knowledge and contribute to real-world projects.
+
+- 😇 I thrive on challenges and am motivated by the thrill of accomplishment.
 
 - 📫 How to reach me **hamed.beyraghdar@gmail.com**
 
-- ✨ **Passionate learner** with a strong foundation in Python (including Django) and web development fundamentals (HTML, CSS, Bootstrap). Currently diving deep into Machine Learning and Deep Learning using PyTorch and TensorFlow, with the goal of becoming an **AI master**.
-
-- 😇 I thrive on challenges and am motivated by the thrill of accomplishment.
 
 
 <h3 align="left">Connect with me:</h3>

@@ -5,6 +5,11 @@
 
 - 📫 How to reach me **hamed.beyraghdar@gmail.com**
 
+- ✨ **Passionate learner** with a strong foundation in Python (including Django) and web development fundamentals (HTML, CSS, Bootstrap). Currently diving deep into Machine Learning and Deep Learning using PyTorch and TensorFlow, with the goal of becoming an **AI master**.
+
+- 😇 I thrive on challenges and am motivated by the thrill of accomplishment.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hamed-beiraghdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamed-beiraghdar" height="30" width="40" /></a>
